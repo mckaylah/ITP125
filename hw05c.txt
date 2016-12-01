@@ -1,0 +1,13 @@
+1.
+This would create a denial of service attack since it would keep looping itself. This is the same thing as saying 
+while true:
+	open file
+Windows says 
+Click the Start button Picture of the Start button , click All Programs, right-click the Startup folder, and then click Open.
+Open the location that contains the item you want to create a shortcut to.
+Right-click the item, and then click Create Shortcut. The new shortcut appears in the same location as the original item.
+Drag the shortcut into the Startup folder.
+
+
+
+2. I'm sorry but its a couple hours before this class and I still have 104 to do and I dont really understand it. I will ask for help tomorrow.

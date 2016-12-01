@@ -1,0 +1,3 @@
+It did not open, it realized that the unzip calls were recursive and that each subsequent layer would use exponential ammounts of data.
+Most classic zip files or fork bombs have software smart enough to stop them. However, I came across this article on line in which a
+person sent an email to his coworker containing a fork bomb and managed to crash the server because the anti virus was continually unzipping.

@@ -1,0 +1,11 @@
+1)
+Well as of the time i'm doing this Su'a Cravens and Cody Kessler both just got drafted so there are a lot of articles surrounding that. If you instead do USC -NFL there is alot about a game panel or something so if you do USC -NFL -Panel -game the schools and wikipedia page come up. Then I want to specifiy directory so I add +directory and the info is there.
+
+2)
+2. Bing and Yahoo return the same base results forUSC -NFL -Panel -game +directory +directory. Baidu is mostly the same with more varaiation though.
+
+3. marshall school of business +email yields the staff and officer contact information
+
+4. Viterbi +directory +IT returns the directory
+
+5. Sending an email "from" someone in the target's department to avoid suspicion.

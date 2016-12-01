@@ -1,0 +1,9 @@
+1) You can add multiple public keys to an encrypted email. For example you should add yourself to the list of keys, so you can decrypt the sent message.
+
+2) Do what he says "Trust the math, encryption is your friend". Protecting against the NSA is literally the same as protecting against strong hackers.
+
+3) By itself, no. It's important to have multiple avenues of protection and solely relying on one is stupid. That being said, air gaps do seem effective in the sense of the physical gap that you can't backdoor.
+
+4) If by NSA revelation you meant reading this article, this is old news. If by revelation you mean first time I heard about these topics, I was annoyed and frankly pissed of at the goverenment. I mean like what the fuck, spying on all citizens? The government isn't supposed to be undermining our security and literally asking for backdoors to all of our private information.
+
+5) Jesus. It's worse than I thought. The sheer ammount of data the not only have acsess to but activley process is beyond frightening. "We need acsess to the whole haystack to find the needle in the haystack" is the most idotic statement. Well right behind, if you have nothing to hide, you have nothing to fear. The only reason this is being tolerated by the masses is because they dont understand what data they are even sharing. They just click accept on app permissions and think nothing of it. God damn, fuck the NSA.

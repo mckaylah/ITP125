@@ -1,0 +1,16 @@
+1. It needs a hashing algorithm so that both users are able to generate a key via hash
+
+
+2. Probably uses the mouse location in terms of where it is on the string as an encription key. It may even just add the location to the end of the previous location fro a reallly long key.
+
+
+3. You can discolose the outer layers of the bins not the innner layers and have fun when the tsa watches gay porn.
+
+4. In certain countries like england you do. although, I don't know why you couldn't say that you didnt have a usb on you.
+
+
+5.  I would use their public key to send them an encrypted email. HOwever, this lab says I should use the following passwords :
+ mypersonalstuff and snowdendocuments
+
+
+6. VeraCrypt is not completely safe. However, it is better than nothing.
