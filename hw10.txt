@@ -1,0 +1,8 @@
+1
+Heartbleed is a vunerability in OpenSSL, which is widley used
+
+2
+This leak is like wiretapping individual websites without credentials to wiretap or the website's knowledge of it
+
+3
+No, i was not.

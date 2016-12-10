@@ -1,0 +1,41 @@
+intext:"Please select file to upload:" ext:php
+Looking for places that let you upload a file, specifically a PHP file so you can inject
+
+inurl:"/root/etc/passwd" intext:"home/*:"
+Where the passwords are stored and see if there are any corresponding usernames
+
+intitle:index.of.mail
+Searches where there are any open directories in the parent directory of "mail"
+
+intitle:"Apache Status" | intext:"Apache Server Status"
+Searches for any server which broadcast the status(backend) of the server
+
+"powered by mailgust"
+Searches for files that are protected via broken system, mailgust
+
+inurl:"/reports/rwservlet" intext:"Oracle"
+Searches for broken oracle files
+
+intitle:"Whoops! There was an error."
+Search for error messages
+
+intitle:"Skipfish . scan"
+Search for results of the Skipfish scan, often shows more information than should
+
+"Password=" inurl:web.config -intext:web.config ext:config
+Searches for the String Password = in all config files 
+
+dcid= bn= pin code=
+See if there are any files with the pincode = to see if there are any openings
+
+inurl:finger.cgi
+look to see if finger.cgi is still being used on system, broken software, full of bugs
+
+filetype:asp intitle:" Microsoft Outlook Web Access"
+Search for Microsoft outlook web accsess login portals
+
+intext:"powered by webcamXP 5"
+search for fault hardware
+
+Powered by: AIH v2.1
+Whcih is able to be SQL injected
